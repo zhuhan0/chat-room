@@ -1,0 +1,15 @@
+{
+  "name": "chat-server",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A chat server built for Code Weekend Spring 2016",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "giphy-api": "^1.1.11",
+    "mongodb": "^1.4.10",
+    "moniker": "^0.1.2",
+    "socket.io": "^1.3.7",
+    "underscore": "^1.8.3"
+  }
+}
